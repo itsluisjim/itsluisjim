@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate front-end developer. Creating visually stunning & user-friendly websites/applications. Let's collaborate!
+I love to code.
 
 
 # 💻 Tech Stack:
